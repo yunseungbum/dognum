@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: 자네가 고양이를 좋아한다면
+    text: 우리는 지금부터 친구일세
+    button: 뭐라고요?
     buttonlink: "#services"
 
   services:
@@ -32,8 +32,8 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "고양이사진"
+    text: "고양이의 귀여움"
     section: portfolio
     closebutton: "Close Project"
 
@@ -92,7 +92,6 @@ en: &DEFAULT_EN
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  team:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
@@ -196,7 +195,6 @@ es: &DEFAULT_ES
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
-  timeline:
     title: "Cronología"
     text: "Lorem ipsum timeline"
     section: cronologia
